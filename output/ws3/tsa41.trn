@@ -1,0 +1,77 @@
+*CASE cc
+*SOURCE 41 managed 4101000 ? ?
+*TARGET 41 managed 4101000 bwbs_at 4121000 100
+*SOURCE 41 managed 4101001 ? ?
+*TARGET 41 managed 4101001 essf_bl 4101001 100
+*SOURCE 41 managed 4101002 ? ?
+*TARGET 41 managed 4101002 essf_se 4121002 100
+*SOURCE 41 managed 4101003 ? ?
+*TARGET 41 managed 4101003 bwbs_pli 4121003 100
+*SOURCE 41 managed 4101004 ? ?
+*TARGET 41 managed 4101004 essf_pli 4121004 100
+*SOURCE 41 managed 4101006 ? ?
+*TARGET 41 managed 4101006 bwbs_sw 4121006 100
+*SOURCE 41 managed 4101007 ? ?
+*TARGET 41 managed 4101007 essf_sx 4121007 100
+*SOURCE 41 managed 4101008 ? ?
+*TARGET 41 managed 4101008 bwbs_ac 4121008 100
+*SOURCE 41 managed 4101009 ? ?
+*TARGET 41 managed 4101009 bwbs_at+sw 4121009 100
+*SOURCE 41 managed 4101010 ? ?
+*TARGET 41 managed 4101010 essf_pl 4121010 100
+*SOURCE 41 managed 4101011 ? ?
+*TARGET 41 managed 4101011 sbs_sw 4121011 100
+*SOURCE 41 managed 4101012 ? ?
+*TARGET 41 managed 4101012 bwbs_pl 4121012 100
+*SOURCE 41 managed 4102000 ? ?
+*TARGET 41 managed 4102000 bwbs_at 4122000 100
+*SOURCE 41 managed 4102001 ? ?
+*TARGET 41 managed 4102001 essf_bl 4102001 100
+*SOURCE 41 managed 4102002 ? ?
+*TARGET 41 managed 4102002 essf_se 4122002 100
+*SOURCE 41 managed 4102003 ? ?
+*TARGET 41 managed 4102003 bwbs_pli 4122003 100
+*SOURCE 41 managed 4102004 ? ?
+*TARGET 41 managed 4102004 essf_pli 4122004 100
+*SOURCE 41 managed 4102005 ? ?
+*TARGET 41 managed 4102005 bwbs_sb 4102005 100
+*SOURCE 41 managed 4102006 ? ?
+*TARGET 41 managed 4102006 bwbs_sw 4122006 100
+*SOURCE 41 managed 4102007 ? ?
+*TARGET 41 managed 4102007 essf_sx 4122007 100
+*SOURCE 41 managed 4102008 ? ?
+*TARGET 41 managed 4102008 bwbs_ac 4122008 100
+*SOURCE 41 managed 4102009 ? ?
+*TARGET 41 managed 4102009 bwbs_at+sw 4122009 100
+*SOURCE 41 managed 4102010 ? ?
+*TARGET 41 managed 4102010 essf_pl 4122010 100
+*SOURCE 41 managed 4102011 ? ?
+*TARGET 41 managed 4102011 sbs_sw 4122011 100
+*SOURCE 41 managed 4102012 ? ?
+*TARGET 41 managed 4102012 bwbs_pl 4122012 100
+*SOURCE 41 managed 4103000 ? ?
+*TARGET 41 managed 4103000 bwbs_at 4123000 100
+*SOURCE 41 managed 4103001 ? ?
+*TARGET 41 managed 4103001 essf_bl 4103001 100
+*SOURCE 41 managed 4103002 ? ?
+*TARGET 41 managed 4103002 essf_se 4123002 100
+*SOURCE 41 managed 4103003 ? ?
+*TARGET 41 managed 4103003 bwbs_pli 4123003 100
+*SOURCE 41 managed 4103004 ? ?
+*TARGET 41 managed 4103004 essf_pli 4123004 100
+*SOURCE 41 managed 4103005 ? ?
+*TARGET 41 managed 4103005 bwbs_sb 4123005 100
+*SOURCE 41 managed 4103006 ? ?
+*TARGET 41 managed 4103006 bwbs_sw 4123006 100
+*SOURCE 41 managed 4103007 ? ?
+*TARGET 41 managed 4103007 essf_sx 4123007 100
+*SOURCE 41 managed 4103008 ? ?
+*TARGET 41 managed 4103008 bwbs_ac 4123008 100
+*SOURCE 41 managed 4103009 ? ?
+*TARGET 41 managed 4103009 bwbs_at+sw 4123009 100
+*SOURCE 41 managed 4103010 ? ?
+*TARGET 41 managed 4103010 essf_pl 4123010 100
+*SOURCE 41 managed 4103011 ? ?
+*TARGET 41 managed 4103011 sbs_sw 4123011 100
+*SOURCE 41 managed 4103012 ? ?
+*TARGET 41 managed 4103012 bwbs_pl 4123012 100

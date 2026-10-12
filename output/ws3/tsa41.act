@@ -1,0 +1,41 @@
+ACTIONS
+*ACTION cc Y
+*OPERABLE cc
+41 managed 4101000 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101001 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101002 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101003 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101004 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101006 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101007 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101008 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101009 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101010 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101011 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4101012 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102000 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102001 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102002 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102003 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102004 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102005 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102006 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102007 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102008 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102009 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102010 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102011 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4102012 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103000 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103001 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103002 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103003 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103004 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103005 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103006 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103007 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103008 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103009 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103010 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103011 ? ? _AGE >= 8 AND _AGE <= 40
+41 managed 4103012 ? ? _AGE >= 8 AND _AGE <= 40
